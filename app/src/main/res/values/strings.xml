@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Counter</string>
+    <string name="team_a_name">New England \nPatriots</string>
+    <string name="team_b_name">Miami \nDolphins</string>
+    <string name="plus_six_points_name">Touchdown</string>
+    <string name="plus_three_points_name">Field Goal</string>
+    <string name="plus_two_points_name">Safety</string>
+    <string name="plus_one_point_name">Extra Points</string>
+
+</resources>
